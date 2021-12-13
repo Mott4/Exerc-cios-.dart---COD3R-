@@ -1,3 +1,1 @@
-main() {
-  print("italo eh gay");
-}
+main() {}
