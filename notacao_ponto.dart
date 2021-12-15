@@ -38,7 +38,7 @@ para completar a string, por exemplo !
   //  .abs();
   //  .padRight(15, '!')
 
-  // esse .padRight(15, '!') vai da rproblema, porque o resultado de abs é
+  // esse .padRight(15, '!') vai dar problema, porque o resultado de abs é
   // inteiro
 
 /*
