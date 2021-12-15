@@ -26,7 +26,7 @@ main() {
 
   /*Como eu faria para colocar um valor real?
    \ -> backspace 
-   \$nome ele vai considerar isso aqui como sendo um valor literal
+   \ $nome ele vai considerar isso aqui como sendo um valor literal
   */
 
   // Colocando expressões mais complexas na INTERPOLAÇÃO!!
